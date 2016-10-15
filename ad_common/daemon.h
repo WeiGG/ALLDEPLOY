@@ -1,0 +1,1 @@
+void StartDaemon(void);
